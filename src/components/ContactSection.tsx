@@ -22,7 +22,7 @@ export default function ContactSection() {
   };
 
   return (
-    <section id="about" className="w-full bg-gray-50 py-20">
+    <section className="w-full bg-gray-50 py-20">
       <div className="mx-auto max-w-7xl px-6">
         <div className="mb-12 text-center">
           <h2 className="text-4xl font-bold text-gray-900 sm:text-5xl">
