@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Modern Family Home",
+    "img": ".../public/gallery1.webp",
+    "location": "Pahrump, NV",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "priceRange": {
+      "min": 250000,
+      "max": 325000
+    }
+  },
+  {
+    "id": 2,
+    "name": "Luxury Desert Estate",
+    "img": ".../public/gallery2.webp",
+    "location": "Pahrump, NV",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "priceRange": {
+      "min": 650000,
+      "max": 850000
+    }
+  },
+  {
+    "id": 3,
+    "name": "Cozy Investment Condo",
+    "img": ".../public/gallery3.webp",
+    "location": "Las Vegas, NV",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "priceRange": {
+      "min": 180000,
+      "max": 240000
+    }
+  },
+  {
+    "id": 4,
+    "name": "Starter Home Fixer",
+    "img": ".../public/gallery4.webp",
+    "location": "Amargosa Valley, NV",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "priceRange": {
+      "min": 140000,
+      "max": 200000
+    }
+  }
+]
