@@ -1,7 +1,5 @@
 import Slider from "react-slick";
 import { useRef, useState } from "react";
-import "slick-carousel/slick/slick.css";
-import "slick-carousel/slick/slick-theme.css";
 
 export default function PhotoGallery() {
   const images: string[] = [
