@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 
 const navLinks = [
-  { href: "#home", label: "Home" },
+  { href: "#", label: "Home" },
   { href: "#listings", label: "Listings" },
   { href: "#move", label: "Let’s Move" },
   { href: "#about", label: "About Us" },
@@ -22,7 +22,7 @@ export default function Navbar() {
     <nav className="w-full bg-white shadow-sm">
       <div className="mx-auto flex max-w-6xl items-center justify-between px-4 py-4 sm:px-6">
         <div className="flex items-center gap-4 sm:gap-10">
-          <a href="#home" className="flex items-center">
+          <a href="#" className="flex items-center">
             <img src="/logo.webp" alt="Logo" className="h-12 w-auto sm:h-14" />
           </a>
 
